@@ -3,14 +3,19 @@
         margin: 5px;
 }
 
-#main_menu ul li{
+#main_menu ul li {
         color: black;
         font-weight: bolder;
 }
+#main_menu ul li div :hover{
+        color: white;
+}
 
 #main_menu ul li :hover{
-        color: White;
+        color: #2e58ca;
 }
+
+
 
         /* section#home{
                 margin-top: 100px;
