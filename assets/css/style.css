@@ -956,7 +956,8 @@ line-height:70px;
 	border-radius: 30px;
 	box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
 	position: absolute;
-	top: 50%;
+	top: 5%;
+	left: 35%;
 }
 .home_ps img {
 	width: 40px;
